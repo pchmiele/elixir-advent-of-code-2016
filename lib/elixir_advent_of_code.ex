@@ -1,0 +1,2 @@
+defmodule ElixirAdventOfCode do
+end
